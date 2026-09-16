@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Legal-Intake-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Intake-Platform?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Legal-Intake-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Intake-Platform?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Intake-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Legal-Intake-Platform?style=flat-square" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Intake-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Legal-Intake-Platform?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Intake-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Legal-Intake-Platform?style=flat-square" alt="License" /></a>
@@ -65,7 +65,7 @@ While enterprise legal intake is predominantly served by commercial platforms, t
 
 *Sorted by GitHub Star Count (Descending):* ⬇️
 
-| Project & Repo Link 📌 | GitHub Stars 🌟 | Description & Capabilities 💡 |
+| Project & Repo Link 📌 | GitHub_Stars 🌟 | Description & Capabilities 💡 |
 | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** ⚡ | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code workflow automation tool. Easily configured to build automated legal request intake, Slack/Email triage, and document routing pipelines. |
 | **[Appsmith](https://github.com/appsmithorg/appsmith)** 🛠️ | [![Appsmith Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) | Open-source low-code platform to quickly build internal legal request dashboards, triage forms, and approval portals connected to your databases. |
